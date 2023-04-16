@@ -4,3 +4,9 @@
     background-color: beige;
     font-size: x-large;
 }
+
+#paragraph {
+    text-align: center;
+    font-size: large;
+    background-color: pink;
+}
